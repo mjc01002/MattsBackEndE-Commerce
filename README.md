@@ -1,43 +1,16 @@
 # Matt's E-commerce Back End App
-
-<h1 align="center">Matts ReadMe Generator</h1>
-  
-## Note
-This readme was created with this application.  
+    
 
 ## Description
-This application was created to generate a readme file using Node js for a project. 
-To be able to create read me files efficiently. 
-This application solved the problem of formatting a readme file quickly.
-I learned to how use Node Js on this application. 
-
-
+This application was created to manage products and categories and tags for those products for an E-Commerce site. 
 
 ## Table of Contents
 - [Description1](#description)
 - [InstallationInstructions](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
 - [Questions](#questions)
 
 ## Installation
-npm install and npm inquirer
-
-## Usage
-This is used to create a readme file. 
-
-## License
-![badge](https://img.shields.io/badge/license-MIT-brightgreen)
-<br />
-This application is covered by the MIT license. 
-
-## Contributing
-undefined
-
-## Tests
-no tests
+npm install,  npm i express, mysql -u root -p to create database, and npm run seed to seed database 
 
 ## Contact Information
 mjc01002<br />
